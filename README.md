@@ -86,7 +86,7 @@ network:
       nameservers:
         addresses: [1.1.1.1, 8.8.8.8]
       match:
-        macaddress: 08:00:27:20:51:02
+        macaddress: xx:xx:xx:xx:xx:xx
       set-name: enp0s3
   version: 2
 ```
